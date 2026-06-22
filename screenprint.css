@@ -1,9 +1,13 @@
 p{
-  background-color: #00008B;
   color:#FFEBCD;
   font-size:30px
 }
 
+body{
+  background:#00008B;
+}
+
+  
 h1 {
   color: white;
   text-align: center;
